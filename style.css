@@ -1,0 +1,17 @@
+body {
+  background-color: lightgray;
+  padding: 10%;
+}
+
+h1 {
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.dark h1 {
+  color: white;
+}
